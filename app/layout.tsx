@@ -16,6 +16,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Chu Hua Chang",
   description: "Created by Chu Hua Chang",
+  icons: {
+    icon: '/favicon.ico', // or your custom icon path
+  },
 };
 
 export default function RootLayout({

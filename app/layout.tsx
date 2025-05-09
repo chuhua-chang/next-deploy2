@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "My Website",
+  title: "Chu Hua Chang",
   description: "Created by Chu Hua Chang",
 };
 

@@ -74,9 +74,10 @@ export default function ResearchExperiencePage() {
           <p>Nanyang Technological University</p>
           <p>2016 - 2020</p>
         </div>
-        
-      </section>
-            <section className="mb-10">
+       </section>
+
+      
+      <section className="mb-10">
         <h2 className="text-2xl font-semibold mb-2">Certification</h2>
         <ul className="list-disc list-inside">
           <li>
@@ -110,6 +111,7 @@ export default function ResearchExperiencePage() {
             Date of Certification: May, 2025
           </li>
         </ul>
+      </section>
 
       <section className="mb-10">
         <h2 className="text-2xl font-semibold mb-2">Awards</h2>

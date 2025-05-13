@@ -74,7 +74,42 @@ export default function ResearchExperiencePage() {
           <p>Nanyang Technological University</p>
           <p>2016 - 2020</p>
         </div>
+        
       </section>
+            <section className="mb-10">
+        <h2 className="text-2xl font-semibold mb-2">Certification</h2>
+        <ul className="list-disc list-inside">
+          <li>
+            <strong>Introduction to Bioinformatics and Data Analytics Programme</strong><br />
+            Institution: A*STAR Bioinformatics Institute<br />
+            Date of Certification: November, 2021
+          </li>
+          <li>
+            <strong>Introduction to HTML5</strong><br />
+            Institution: University of Michigan on Coursera<br />
+            Date of Certification: April, 2025
+          </li>
+          <li>
+            <strong>Introduction to CSS3</strong><br />
+            Institution: University of Michigan on Coursera <br />
+            Date of Certification: April, 2025
+          </li>
+          <li>
+            <strong>Interactivity with JavaScript</strong><br />
+            Institution: University of Michigan on Coursera <br />
+            Date of Certification: May, 2025
+          </li>
+          <li>
+            <strong>Advanced Styling with Responsive Design</strong><br />
+            Institution: University of Michigan on Coursera<br />
+            Date of Certification: April, 2025
+          </li>
+          <li>
+            <strong>Web Design for Everybody: Basics of Web Development & Coding</strong><br />
+            Institution: University of Michigan on Coursera <br />
+            Date of Certification: May, 2025
+          </li>
+        </ul>
 
       <section className="mb-10">
         <h2 className="text-2xl font-semibold mb-2">Awards</h2>

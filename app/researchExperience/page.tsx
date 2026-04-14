@@ -8,14 +8,23 @@ export default function ResearchExperiencePage() {
         <h2 className="text-3xl font-bold mb-4">Research Experience</h2>
 
         <div className="mb-6">
+          <h3 className="text-xl font-semibold">Research Fellow</h3>
+          <p>Lee Kong Chian School of Medicine, Nanyang Technological University</p>
+          <p>August 2025 - Present</p>
+          <ul className="list-disc list-inside mt-2">
+            <li>Integrating molecular biology techniques and bioinformatics pipelines to elucidate the role of novel regulatory proteins in lipid sensing and cholesterol metabolism.</li>
+          </ul>
+        </div>
+
+        <div className="mb-6">
           <h3 className="text-xl font-semibold">Ph.D. Research</h3>
           <p>Lee Kong Chian School of Medicine, Nanyang Technological University</p>
-          <p>Jan 2021 - Present</p>
+          <p>Jan 2021 - July 2025</p>
           <ul className="list-disc list-inside mt-2">
-            <li>Utilizing dopaminergic neurons and midbrain-like organoids derived from human embryonic stem cells to investigate the roles of PD-associated gene</li>
+            <li>Utilized dopaminergic neurons and midbrain-like organoids derived from human embryonic stem cells to investigate the roles of PD-associated gene</li>
             <li>Performed molecular and cellular assays related to neuronal and synaptic functions</li>
             <li>Transcriptomics analysis of bulk- and single cell-RNA sequencing datasets</li>
-            <li>Writing and preparing manuscripts for publications based on my research findings</li>
+            <li>Preparing manuscripts for publications based on my research findings</li>
           </ul>
         </div>
 
@@ -67,7 +76,7 @@ export default function ResearchExperiencePage() {
         <div>
           <h3 className="text-lg font-bold">Ph.D. in Neuroscience</h3>
           <p>Nanyang Technological University</p>
-          <p>2020 - Present</p>
+          <p>2020 - 2025</p>
         </div>
         <div className="mt-4">
           <h3 className="text-lg font-bold">B.Sc. in Biological Sciences with Honours (Highest Distinction)</h3>
@@ -77,8 +86,46 @@ export default function ResearchExperiencePage() {
       </section>
 
       <section className="mb-10">
+        <h2 className="text-2xl font-semibold mb-2">Certification</h2>
+        <ul className="list-disc list-inside space-y-4">
+          <li>
+            <strong>Introduction to Bioinformatics and Data Analytics Programme</strong><br />
+            Institution: A*STAR Bioinformatics Institute<br />
+            Date of Certification: November, 2021
+          </li>
+          <li>
+            <strong>Introduction to HTML5</strong><br />
+            Institution: University of Michigan on Coursera<br />
+            Date of Certification: April, 2025
+          </li>
+          <li>
+            <strong>Introduction to CSS3</strong><br />
+            Institution: University of Michigan on Coursera <br />
+            Date of Certification: April, 2025
+          </li>
+          <li>
+            <strong>Interactivity with JavaScript</strong><br />
+            Institution: University of Michigan on Coursera <br />
+            Date of Certification: May, 2025
+          </li>
+          <li>
+            <strong>Advanced Styling with Responsive Design</strong><br />
+            Institution: University of Michigan on Coursera<br />
+            Date of Certification: April, 2025
+          </li>
+          <li>
+            <strong>Web Design for Everybody: Basics of Web Development & Coding</strong><br />
+            Institution: University of Michigan on Coursera <br />
+            Date of Certification: May, 2025
+          </li>
+        </ul>
+
+      </section>
+
+      <section className="mb-10">
         <h2 className="text-2xl font-semibold mb-2">Awards</h2>
         <ul className="list-disc list-inside">
+          <li>Best Poster Award at LEARN Symposium 2026</li>
           <li>NTU Research Scholarship</li>
           <li>Nanyang Scholarship</li>
         </ul>

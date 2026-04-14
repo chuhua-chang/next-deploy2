@@ -56,6 +56,12 @@ export default function PublicationsPage() {
       <section>
         <h2 className="text-2xl font-bold mt-8 mb-2">Conference Posters</h2>
         <p>
+        "TRIM28 is a nuclear sensor of 25-hydroxycholesterol that controls cellular cholesterol homeostasis." <i>5th LEARN Symposium 2026</i>, Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore.</p>
+        <p>
+        <strong className="text-amber-600 font-semibold">— Best Poster Award</strong>
+        </p>
+        <br></br>
+        <p>
           “Functional Characterisation of SV2C and its variants as a Parkinson&apos;s Disease-associated Gene.” <i>Neuroscience
           2023</i>, Society for Neuroscience, Washington D.C., United States.
         </p>
